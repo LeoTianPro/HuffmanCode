@@ -1,0 +1,18 @@
+#define hfmTree   "D:\\Desktop\\数据结构\\代码\\上机3\\HT\\data\\hfmTree.txt"
+#define ToBeTran  "D:\\Desktop\\数据结构\\代码\\上机3\\HT\\data\\ToBeTran.txt"
+#define CodeFile  "D:\\Desktop\\数据结构\\代码\\上机3\\HT\\data\\CodeFile.txt"
+#define TextFile  "D:\\Desktop\\数据结构\\代码\\上机3\\HT\\data\\TextFile.txt"
+#define CodePrin  "D:\\Desktop\\数据结构\\代码\\上机3\\HT\\data\\CodePrin.txt"
+#define TreePrint "D:\\Desktop\\数据结构\\代码\\上机3\\HT\\data\\TreePrint.txt"
+#define String    "D:\\Desktop\\数据结构\\代码\\上机3\\HT\\data\\String.txt"
+                   D:\\Desktop\\数据结构\\代码\\上机3\\HT\\data\\建树信息.txt
+
+
+#define hfmTree   "C:\\Users\\ha\\Desktop\\数据结构\\代码\\上机3\\HT\\data\\hfmTree.txt"
+#define ToBeTran  "C:\\Users\\ha\\Desktop\\数据结构\\代码\\上机3\\HT\\data\\ToBeTran.txt"
+#define CodeFile  "C:\\Users\\ha\\Desktop\\数据结构\\代码\\上机3\\HT\\data\\CodeFile.txt"
+#define TextFile  "C:\\Users\\ha\\Desktop\\数据结构\\代码\\上机3\\HT\\data\\TextFile.txt"
+#define CodePrin  "C:\\Users\\ha\\Desktop\\数据结构\\代码\\上机3\\HT\\data\\CodePrin.txt"
+#define TreePrint "C:\\Users\\ha\\Desktop\\数据结构\\代码\\上机3\\HT\\data\\TreePrint.txt"
+#define String    "C:\\Users\\ha\\Desktop\\数据结构\\代码\\上机3\\HT\\data\\String.txt"
+                   C:\\Users\\ha\\Desktop\\数据结构\\代码\\上机3\\HT\\data\\建树信息.txt
